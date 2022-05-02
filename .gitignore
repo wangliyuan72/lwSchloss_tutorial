@@ -1,2 +1,4 @@
 data/
 code/mothur/
+.DS_Store
+code/.DS_Store
